@@ -1,2 +1,0 @@
-TEidotr
-simple Text editor
