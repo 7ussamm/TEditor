@@ -1,4 +1,6 @@
 #!/usr/bin/python 
+#__author__ = 'Hussam Ashraf'
+
 
 from PyQt4.QtGui import *
 from PyQt4.QtCore import *
